@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Personal data and credentials (IMPORTANT!)
+personal_data.json
+
+# Chrome automation temporary files
+ChromeAutomation/
+
+# Logs and temporary files
+*.log
+*.tmp
+temp/
+
+# OS generated files
+.DS_Store
+Thumbs.db
